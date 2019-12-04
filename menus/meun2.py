@@ -1,3 +1,5 @@
+#구글 트렌드 그래프 메뉴
+
 from pytrends.request import TrendReq
 import numpy as np
 
