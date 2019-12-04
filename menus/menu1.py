@@ -1,4 +1,4 @@
-//크롤링 메뉴
+#크롤링 메뉴
 
 import pickle
 from django.http import HttpResponse
