@@ -1,3 +1,5 @@
+#워드클라우드 
+
 from bs4 import BeautifulSoup
 import requests
 import matplotlib.pyplot as plt
